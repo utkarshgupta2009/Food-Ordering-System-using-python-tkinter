@@ -7,8 +7,8 @@ FEATURES-
 1. It uses MySQL as its backend, so make sure you have sql before using the code.
 
 2. This system has -
-    a. SIGN UP PAGE
-    b. LOGIN PAGE
+a. SIGN UP PAGE
+b. LOGIN PAGE
 
 3. If customer is logged in then only he can order food.
 
